@@ -19,9 +19,9 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['7736305547']
-global.premium = ['7736305547']
-global.ownernomer = '7736305547'
+global.owner = ['917736305547']
+global.premium = ['917736305547']
+global.ownernomer = '917736305547'
 global.ownername = '🐦teslasidhu'
 global.botname = 'bot.tesla'
 global.footer = '© tesseract.'
